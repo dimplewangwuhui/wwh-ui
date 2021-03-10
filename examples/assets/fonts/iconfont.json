@@ -1,0 +1,51 @@
+{
+  "id": "2411533",
+  "name": "wwh-ui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1146277",
+      "name": "iconfont_voice",
+      "font_class": "icon7",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1163163",
+      "name": "iconfont-20",
+      "font_class": "iconfont20",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1337758",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "6253874",
+      "name": "iconfont icon-baobia",
+      "font_class": "iconfonticon-baobia",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "6253881",
+      "name": "iconfont icon-mim)",
+      "font_class": "iconfonticon-mim",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "6253892",
+      "name": "iconfont icon-shezhi",
+      "font_class": "iconfonticon-shezhi",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    }
+  ]
+}
